@@ -18,7 +18,7 @@ Due Friday, Sep 18 at 11:59pm ET:
 ### Content
 
 - Notebook: Data ingestion
-- Notebook: Spark Dataframes and Spark SQL
+- Notebook: Spark Dataframes and Spark SQL (likely will not finish)
 - Review Lab Assignment
 
 --- 
